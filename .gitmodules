@@ -1,0 +1,3 @@
+[submodule "Appointment_Booking_App"]
+	path = Appointment_Booking_App
+	url = https://github.com/Ammad-Younas/Appointment_Booking_App.git
