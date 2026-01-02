@@ -1,0 +1,3 @@
+[submodule "smart-notes"]
+	path = smart-notes
+	url = https://github.com/Zeeshier/smart-notes.git
